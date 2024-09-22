@@ -1,3 +1,5 @@
 # see also https://www.gitpod.io/docs/references/gitpod-yml
 # and https://github.com/erikmd/gitpod-workspace-emacs-nw
 # image: ghcr.io/erikmd/gitpod-workspace-emacs-nw:coq-8.19
+
+image: gitpod/workspace-full
